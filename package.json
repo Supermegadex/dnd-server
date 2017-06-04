@@ -1,0 +1,23 @@
+{
+  "name": "dnd-server",
+  "version": "0.0.1",
+  "description": "server for James's thing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supermegadex/dnd-server.git"
+  },
+  "author": "Daniel Noon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Supermegadex/dnd-server/issues"
+  },
+  "homepage": "https://github.com/Supermegadex/dnd-server#readme"
+}
